@@ -55,6 +55,7 @@ MCP — это **стандартизированный способ**, кото
 - **brave-search** — поиск через Brave Search API.
 - **firecrawl** — продвинутый scraping и краулинг сайтов.
 - **markitdown** — конвертация PDF/DOCX/PPTX/HTML/изображений в Markdown.
+- **xquik** - MCP-сервер для поиска и извлечения данных X/Twitter; требует ключ Xquik API. [GitHub](https://github.com/Xquik-dev/x-twitter-scraper)
 
 ## Базы данных
 
