@@ -55,6 +55,7 @@ MCP — это **стандартизированный способ**, кото
 - **brave-search** — поиск через Brave Search API.
 - **firecrawl** — продвинутый scraping и краулинг сайтов.
 - **markitdown** — конвертация PDF/DOCX/PPTX/HTML/изображений в Markdown.
+- **Statsnet MCP** — Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet` · [репозиторий](https://github.com/usenetstate/statsnet-mcp).
 
 ## Базы данных
 
