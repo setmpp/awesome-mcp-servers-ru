@@ -90,6 +90,7 @@ MCP — это **стандартизированный способ**, кото
 
 ## Devtools
 
+- **Agent Payment Node** — локальная платёжная среда CLI и stdio MCP для AI-агентов на macOS Apple Silicon; подписание требует подтверждения владельца в терминале. [GitHub](https://github.com/nuanu-ai/agent-payment-node)
 - **pylance-mcp** — type checking, refactoring, syntax errors для Python.
 - **context7** — актуальная документация по библиотекам и фреймворкам.
 - **sentry-mcp** — issues и performance из Sentry.
