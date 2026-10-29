@@ -55,6 +55,7 @@ MCP — это **стандартизированный способ**, кото
 - **brave-search** — поиск через Brave Search API.
 - **firecrawl** — продвинутый scraping и краулинг сайтов.
 - **markitdown** — конвертация PDF/DOCX/PPTX/HTML/изображений в Markdown.
+- **rzhunemogu-mcp** — база русского юмора: 46 000+ анекдотов с полнотекстовым поиском и случайным контентом. [GitHub](https://github.com/MihaNikUs/rzhunemogu-mcp)
 
 ## Базы данных
 
