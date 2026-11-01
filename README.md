@@ -46,6 +46,7 @@ MCP — это **стандартизированный способ**, кото
 
 - **filesystem** (официальный) — чтение/запись с whitelist директорий.
 - **everything-search** — интеграция Everything (Windows) для мгновенного поиска по имени файла.
+- **Kilobat CLI** — локальный stdio MCP-сервер для проверки DNS, задержки и прокси на macOS; GPL-3.0-only. [GitHub](https://github.com/seifip/kilobat-cli)
 - **shell** — выполнение shell-команд (используй с осторожностью, только в sandboxed окружении).
 
 ## Поиск и веб
