@@ -123,3 +123,8 @@ MCP — это **стандартизированный способ**, кото
 ## Лицензия
 
 [MIT](LICENSE)
+
+
+## API открытых данных (Apify)
+
+- [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp/blob/main/README.ru.md) - 18 MCP-серверов с открытыми данными на Apify: SAM.gov, Grants.gov, USAspending, тендеры EU TED и Великобритании, заседания городских советов, вакансии Ashby/Greenhouse/Lever/SmartRecruiters, соцсети компаний, Google Ads Transparency, продажи Etsy, спортивные коэффициенты, прослушивания Spotify.
