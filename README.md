@@ -14,6 +14,7 @@
 - [Git и GitHub](#git-и-github)
 - [Браузер и автоматизация](#браузер-и-автоматизация)
 - [Память и заметки](#память-и-заметки)
+- [Управление задачами](#управление-задачами)
 - [AI и генерация](#ai-и-генерация)
 - [Devtools](#devtools)
 - [Клиенты MCP](#клиенты-mcp)
@@ -81,6 +82,10 @@ MCP — это **стандартизированный способ**, кото
 - **memory** (официальный) — knowledge graph: entities + relations + observations.
 - **obsidian-mcp** — чтение и поиск по vault Obsidian.
 - **notion-mcp** — операции с Notion API.
+
+## Управление задачами
+
+- **kotelkin-planfix-mcp** — локальный сервер для REST API ПланФикс: читает задачи и их поля, создаёт задачи с чек-листом. [GitHub](https://github.com/AndreiSVetvit/kotelkin-planfix-mcp)
 
 ## AI и генерация
 
